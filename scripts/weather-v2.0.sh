@@ -8,7 +8,7 @@
 # get your city id at https://openweathermap.org/find and replace
 city_id=186301
 
-# you can use this or replace with yours
+# replace with yours
 api_key=67b6dcb37e53ccef488bc6691e274f87
 
 # choose between metric for Celcius or imperial for fahrenheit

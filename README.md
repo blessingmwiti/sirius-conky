@@ -4,4 +4,4 @@
 
 ## image preview
 
-! [preview image] (preview.png)
+![image preview](./preview.png)

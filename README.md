@@ -7,5 +7,6 @@
 ![image preview](./preview.png)
 
 ## script for initial setup
-
-> apt install conky jq curl lua5.4 gnome-tweaks -y
+```bash
+apt install conky jq curl lua5.4 gnome-tweaks -y
+```
